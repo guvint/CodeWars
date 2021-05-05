@@ -35,7 +35,6 @@ public class TenMinWalk {
         ew -= 1;
       }   
     }
-   
     return ns == 0 && ew == 0;
   }
 }
