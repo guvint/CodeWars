@@ -25,6 +25,7 @@ public class CircleOfNumbers {
           opposite = firstNumber + (n/2);
         }        
       }
+    	
     	return opposite;
     }
 }
