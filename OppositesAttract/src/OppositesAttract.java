@@ -25,6 +25,6 @@ public class OppositesAttract {
     } else {
       return false;
     }
-  }
+  } 
   
 }
