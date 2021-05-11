@@ -1,6 +1,5 @@
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
-import org.junit.runners.JUnit4;
 
 public class FindNextSquareTest {
 	@Test
@@ -17,5 +16,4 @@ public class FindNextSquareTest {
 	public void test3() {
 		assertEquals(-1, FindNextSquare.numberFun(114));
 	}
-
 }
