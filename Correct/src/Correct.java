@@ -23,8 +23,4 @@ public class Correct {
 		
 		return string;
 	}
-	
-	public static void main(String[] args) {
-		correct("Anan111555");
-	}
 }
