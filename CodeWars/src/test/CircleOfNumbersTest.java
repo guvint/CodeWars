@@ -5,7 +5,7 @@ import kyu7.CircleOfNumbers;
 
 import static org.junit.Assert.assertEquals;
 
-public class CirlceOfNumbersTest {
+public class CircleOfNumbersTest {
     @Test
     public void basicTests() {
         assertEquals(7, CircleOfNumbers.circleOfNumbers(10, 2));
