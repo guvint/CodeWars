@@ -1,6 +1,9 @@
-package kyu7;
+package test;
 
 import org.junit.Test;
+
+import kyu7.SquareDigit;
+
 import static org.junit.Assert.assertEquals;
 
 import java.util.Random;
