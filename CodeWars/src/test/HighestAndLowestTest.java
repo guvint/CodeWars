@@ -1,5 +1,5 @@
 package test;
- 
+
 import org.junit.Test;
 
 import kyu7.HighestAndLowest;
