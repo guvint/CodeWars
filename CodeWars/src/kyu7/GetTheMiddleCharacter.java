@@ -11,7 +11,7 @@ package kyu7;
  * Kata.getMiddle("test") should return "es"
  * Kata.getMiddle("testing") should return "t" 
  * Kata.getMiddle("middle") should return "dd" 
- * Kata.getMiddle("A") should return "A" 
+ * Kata.getMiddle("A") should return "A"
  * 
  * #Input
  * A word (string) of length 0 < str < 1000. You do not need to test for this.
