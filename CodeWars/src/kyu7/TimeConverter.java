@@ -16,7 +16,7 @@ package kyu7;
  * 323500 --> "89 hour(s) and 51 minute(s)"
  */
 
-public class timeConverter{
+public class TimeConverter{
   public static String toTime(int seconds){  
     int hours = seconds / 3600;
     int minutes = (seconds - (hours * 3600)) / 60;
@@ -24,9 +24,5 @@ public class timeConverter{
     String output = hours + " hour(s) and " + minutes + " minute(s)";
         
     return output;
-  }
-  
-  public static void main(String[] args) {
-	  System.out.println(toTime(3500));
   }
 }
