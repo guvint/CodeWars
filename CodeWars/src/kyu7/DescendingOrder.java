@@ -6,7 +6,7 @@ import java.util.Collections;
 /**
  * Developed skills: FUNDAMENTALS, FUNCTIONS, CONTROL FLOW, BASIC LANGUAGE, FEATURES
  * 
- * Your task is to make a function that can take any non-negative integer as an
+ * Your task is to make a function that can take any non-negative integer as an 
  * argument and return it with its digits in descending order. Essentially,
  * rearrange the digits to create the highest possible number.
  * 
