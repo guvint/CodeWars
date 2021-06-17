@@ -1,6 +1,9 @@
-package kyu6;
+package test;
 
 import org.junit.Test;
+
+import kyu6.Multiplies;
+
 import static org.junit.Assert.assertEquals;
 
 public class MultipliesTest {
