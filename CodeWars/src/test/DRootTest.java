@@ -1,10 +1,12 @@
-package kyu6;
+package test;
 
 import static org.junit.Assert.assertEquals;
 
 import java.util.Random;
 
 import org.junit.Test;
+
+import kyu6.DRoot;
 
 public class DRootTest {
 	// Reference implementation for the random test cases
