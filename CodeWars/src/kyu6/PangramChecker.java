@@ -14,20 +14,14 @@ package kyu6;
 public class PangramChecker {
 	public static boolean check(String sentence) {
 		sentence = sentence.toLowerCase();
-		boolean b = true;
 		
 		for (char c = 'a'; c <= 'z'; c++) {
 			if (!sentence.contains(String.valueOf(c))) {
-				b = false;
-				break;
+				return false;
 			}
 		}
-		
-		if (b == true) {
-			return true;
-		}
 
-		return false;
+		return true;
 	}
 
 	public static void main(String[] args) {
